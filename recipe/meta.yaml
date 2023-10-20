@@ -1,4 +1,4 @@
-{% set version = "1.0.2" %}
+{% set version = "1.0.3" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,11 +10,11 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/aricode_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/aricode/aricode_{{ version }}.tar.gz
-  sha256: 5f4e51f7063cfd4924a8925c902a3eb7517c743234a14560691cb84428b6b2f0
+  sha256: 10a739353feb4f552496d3a51d436088c92edbd241f80f7c33ee5f278de1d90a
 
 build:
   merge_build_host: true  # [win]
-  number: 1
+  number: 0
   rpaths:
     - lib/R/lib/
     - lib/
