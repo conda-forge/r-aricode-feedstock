@@ -3,6 +3,7 @@ About r-aricode-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-aricode-feedstock/blob/main/LICENSE.txt)
 
+
 About r-aricode
 ---------------
 
@@ -11,6 +12,7 @@ Home: https://github.com/jchiquet/aricode (dev version)
 Package license: GPL-3.0-or-later
 
 Summary: Implements an efficient O(n) algorithm based on bucket-sorting for fast computation of standard clustering comparison measures. Available measures include adjusted Rand index (ARI), normalized information distance (NID), normalized mutual information (NMI), adjusted mutual information (AMI), normalized variation information (NVI) and entropy, as described in Vinh et al (2009) <doi:10.1145/1553374.1553511>. Include AMI (Adjusted Mutual Information) since version 0.1.2, a modified version of ARI (MARI) and simple Chi-square distance since version 1.0.0.
+
 About r-aricode
 ---------------
 
