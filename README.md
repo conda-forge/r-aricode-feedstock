@@ -7,7 +7,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-aricode-feeds
 About r-aricode
 ---------------
 
-Home: https://github.com/jchiquet/aricode (dev version)
+Home: https://github.com/jchiquet/aricode
 
 Package license: GPL-3.0-or-later
 
@@ -16,7 +16,7 @@ Summary: Implements an efficient O(n) algorithm based on bucket-sorting for fast
 About r-aricode
 ---------------
 
-Home: https://github.com/jchiquet/aricode (dev version)
+Home: https://github.com/jchiquet/aricode
 
 Package license: GPL-3.0-or-later
 
